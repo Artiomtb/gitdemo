@@ -1,4 +1,5 @@
 first line
 --first-repo-
-changed in dev(master)
+changed in dev(master, dev)
+line added in dev!
 second line
