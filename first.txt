@@ -2,4 +2,5 @@ first line
 --first-repo-
 changed in dev(dev)
 line added in dev!
+dev change
 second line
